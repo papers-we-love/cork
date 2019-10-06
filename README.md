@@ -8,4 +8,4 @@ This is the repository for the Cork chapter of Papers We Love. As a local chapte
 
 ### Contact
 
-- **Paul McGrath** [GitHub](https://github.com/heypaulmcgrath) | [Twitter](https://twitter.com/heypaulmcgrath) | [email](mailto:hello@paulmcgrath.me)
+- **Paul McGrath** [GitHub](https://github.com/heypaulmcgrath) | [Twitter](https://twitter.com/heypaulmcgrath)
